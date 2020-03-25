@@ -1,1 +1,1 @@
-# AspNetCoreAndBlazor
+# App Review
